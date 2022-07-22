@@ -1,0 +1,22 @@
+.container{
+    background-color: aqua;
+    padding: 10%;
+    align-items: center;
+    display: flex;
+    height: 50%;
+}
+
+.faqs{
+    background-color: whitesmoke;
+    width: 50rem;
+    max-width:100%;
+    height: 5%;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-left: 10%;
+    margin-top: -80px;
+}
+
+h2{
+    text-align: center;
+}
